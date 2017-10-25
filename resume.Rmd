@@ -1,0 +1,75 @@
+---
+title: "Ruiwei Zhang"
+---
+617 W 168th St., New York, NY 10032 | 917-628-5445 | [zhang.ruiwei@columbia.edu](zhang.ruiwei@columbia.edu) 
+
+## EDUCATION
+
+**Columbia University Mailman School of Public Health, New York, NY**
+
+*Master of Science (M.S.) in Epidemiology, May 2018*
+
+* GPA: 4.18
+
+* Relevant Courses: Data Science, Analysis of Categorical Data, Applied Regression, Biostatistics Analysis using SPSS, Pharmacoepidemiology
+
+**Nankai University, The College of Life Science, Tianjin, China**
+
+*Bachelor of Science (B.Sc.) in Biological Technology, June 2016*
+
+**National Taiwan Normal University, Taipei, Taiwan**
+
+*Exchange Program funded with scholarship, Feb 2014-July 2014*
+
+## PROFESSIONAL EXPERIENCE
+
+**Department of Epidemiology in Mailman School of Public Health, New York, NY**
+
+*Research Assistant, March 2017-Present*
+
+*	Manipulate and analyze data using SAS and R to apply logistic regression models, significance tests and determine genetic determinants of miscarriages
+*	Initiate and implement a research project on detecting genetic determinants of congenital heart disease
+*	Utilize Microsoft Access to manage a database of 2,000+ subjects in order to ensure accurate data analysis
+*	Communicate and arrange routine meetings with the research collaborators to develop, revise and update statistical analytic plan
+*	Create, generate or revise up to 30+ SAS programs to optimize the research work streams and solve existing or emerging problems  
+
+**Center for AIDS Research in Nankai University, Tianjin, China**
+
+*Researcher, Nov 2015-June 2016*
+
+*	Designed and conducted research on Hand Foot Mouth Disease EV71 virus, improving understanding and guiding further studies towards HFMD
+*	Presented a thesis defense to the committee from Department of Microbiology
+
+**Tianjin Institute for Drug Control, Tianjin, China**
+
+*Lab Assistant, Department of Biochemistry, Dec 2014-March 2015*
+
+*	Collected, analyzed and interpreted experiment data in a series of revised Heparin testing projects and present weekly report in department meeting
+*	Produced and organized figures for the project reports, which were submitted to the CFDA and contributed to the establishment of new regulations for Heparin testing
+
+**The College of Life Science, Nankai University, Tianjin, China**
+
+*Researcher, Department of Botany and Ecology, Oct 2014-Feb 2015*
+
+*	Initiated, planned and processed a research project on anatomical structure of Psammophytes 
+*	Developed a scientific paper and presented to the Experiment Center Annual Conference
+
+## SELECTED COMMUNITY INVOLVEMENT AND LEADERSHIP EXPERIENCE
+
+**Chinese Students & Scholars Association, Media Public Relationship Department, Columbia University**, *Sept 2016-Present*
+
+**Nankai University Alumni Club, Public Relationship Department, New York, NY**, *Oct 2016-Present*
+
+**College of Chinese Language & Culture, Mandarin Teacher for foreign students, Nankai University**, *Feb 2016-July 2016*
+
+**Abercrombie & Fitch, Model/Brand Representative, Tianjin, China**, *Aug 2015-Aug 2016*
+
+**China CITIC Bank, Hongqi Road Sub-Branch, Customer Manager Assistant, Tianjin, China**, *July 2015-Oct 2015*
+
+**Student Union, Director of the Art Department, Nankai University**, *Sept 2013-July 2014*
+
+## SKILLS
+
+* Computer: SAS, R, SPSS, C++, Microsoft Word, PowerPoint, Excel, Access, Photoshop, Video Editing
+* Languages: Chinese (native), Korean (basic)
+* Certifications: Statistical Qualification Certificate issued by the National Bureau of Statistics of China, HIPAA, CITI Human Subjects

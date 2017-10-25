@@ -1,0 +1,13 @@
+name: "Ruiwei Zhang"
+output_dir: "."
+navbar:
+  title: "Ruiwei Zhang"
+  right:
+    - text: "Resume"
+      href: resume.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<rz2375@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/RuiweiZhangColumbia/
+output:
+  html_document
