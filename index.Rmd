@@ -4,6 +4,8 @@ title: "Ruiwei Zhang 张瑞玮"
 
 ### Welcome to my website!
 
-This is me!
+<img src="./images/profile.jpg" style="width:25%">
 
-<img src="./images/profile.jpg" style="width:75%">
+**This is me!**
+
+**Currently I am pursuing my Master of Science at the [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu) with a focus on [Epidemiology](https://en.wikipedia.org/wiki/Epidemiology).** 
