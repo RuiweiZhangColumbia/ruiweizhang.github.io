@@ -10,6 +10,8 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/RuiweiZhangColumbia/
     - icon: fa-instagram fa-lg
-      href: https://www.instagram.com/ruiweichang/      
+      href: https://www.instagram.com/ruiweichang/
+    - icon: fa-facebook-official fa-lg
+      href: https://www.facebook.com/ruiweizhang51      
 output:
   html_document

@@ -70,6 +70,6 @@ title: "Ruiwei Zhang"
 
 ## SKILLS
 
-* Computer: SAS, R, SPSS, C++, Microsoft Word, PowerPoint, Excel, Access, Photoshop, Video Editing
-* Languages: Chinese (native), Korean (basic)
-* Certifications: Statistical Qualification Certificate issued by the National Bureau of Statistics of China, HIPAA, CITI Human Subjects
+* **Computer:** SAS, R, SPSS, C++, Microsoft Word, PowerPoint, Excel, Access, Photoshop, Video Editing
+* **Languages:** Chinese (native), Korean (basic)
+* **Certifications:** Statistical Qualification Certificate issued by the National Bureau of Statistics of China, HIPAA, CITI Human Subjects
